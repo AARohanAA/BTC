@@ -3,5 +3,4 @@ bs4
 ipywidgets
 datetime
 requests
-time
 matplotlib
