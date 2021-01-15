@@ -1,6 +1,6 @@
 voila
 bs4
-ipywidget
+ipywidgets
 datetime
 requests
 time
