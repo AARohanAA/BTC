@@ -1,3 +1,7 @@
 voila
 bs4
+ipywidget
+datetime
+requests
+time
 matplotlib
